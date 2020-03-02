@@ -22,6 +22,6 @@ For the project to build, **these files must exist with exact filenames**:
 * `src/index.js` is the JavaScript entry point.
 
 ## Install
-npm install
-npm start
+npm install <br>
+npm start<br>
 http://localhost:3000](http://localhost:3000
